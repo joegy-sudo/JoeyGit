@@ -1,8 +1,5 @@
 Git is a distributed version control system
 Git is free software distributed under GPL
 Git has amutable index called stage
-GIt tracks changes on jsbd-pc
 
-Create a new branch is quick & simple.
-
-Now I have dealed with one bug in issue01 branch.
+this test for bug managemet~
