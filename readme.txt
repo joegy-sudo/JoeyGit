@@ -4,3 +4,5 @@ Git has amutable index called stage
 Create a new branch is quick & simple.
 
 update info in 2026/10/13
+
+update name to Joe.Y
